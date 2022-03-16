@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@200&family=Poppins:wght@300;400&display=swap');
+
+body{
+    background-color: rgb(255, 255, 255);
+    height: 95%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Poppins', sans-serif;
+    transition-duration: 0.3s;
+    background-image: linear-gradient(to right);
+}
+
+button{
+    background-color: rgb(255, 255, 255, 0.5);
+    color: black;
+    padding: 0 20px;
+    border-radius: 10px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.3em;
+}
+
+h2{
+    color: white;
+}
